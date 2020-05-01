@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\bin\Debug\Desafio.exe
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\bin\Debug\Desafio.pdb
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\obj\Debug\Desafio.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\obj\Debug\Desafio.Form1.resources
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\obj\Debug\Desafio.Properties.Resources.resources
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\obj\Debug\Desafio.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\obj\Debug\Desafio.exe
+C:\Users\Moises\Desktop\Exercicio 6 desafio\Desafio\Desafio\obj\Debug\Desafio.pdb
