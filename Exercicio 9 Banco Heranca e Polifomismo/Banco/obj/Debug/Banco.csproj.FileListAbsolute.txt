@@ -1,0 +1,9 @@
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Moises\Desktop\capitulo 9\Banco\Banco\obj\Debug\Banco.pdb
