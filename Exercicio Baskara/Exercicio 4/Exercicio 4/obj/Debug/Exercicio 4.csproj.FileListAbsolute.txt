@@ -1,9 +1,0 @@
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe.config
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.exe
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\bin\Debug\Exercicio 4.pdb
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.csprojResolveAssemblyReference.cache
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\obj\Debug\Exercicio_4.Form1.resources
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\obj\Debug\Exercicio_4.Properties.Resources.resources
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.csproj.GenerateResource.Cache
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.exe
-C:\Users\Moises\Desktop\csharpApostila\Exercicio 4 Baskara\Exercicio 4\Exercicio 4\obj\Debug\Exercicio 4.pdb

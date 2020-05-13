@@ -1,9 +1,0 @@
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Form1.resources
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.Cache
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
-C:\Users\Moises\Desktop\csharpApostila\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

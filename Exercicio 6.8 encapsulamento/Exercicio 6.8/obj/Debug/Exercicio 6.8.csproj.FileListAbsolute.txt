@@ -1,9 +1,0 @@
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\bin\Debug\Exercicio 6.8.exe.config
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\bin\Debug\Exercicio 6.8.exe
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\bin\Debug\Exercicio 6.8.pdb
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\obj\Debug\Exercicio 6.8.csprojResolveAssemblyReference.cache
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\obj\Debug\Exercicio_6._8.Form1.resources
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\obj\Debug\Exercicio_6._8.Properties.Resources.resources
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\obj\Debug\Exercicio 6.8.csproj.GenerateResource.Cache
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\obj\Debug\Exercicio 6.8.exe
-C:\Users\Moises\Desktop\Exercicio capitulo 6 apostila C#\Exercicio 6.8\Exercicio 6.8\Exercicio 6.8\obj\Debug\Exercicio 6.8.pdb

@@ -1,9 +1,0 @@
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\bin\Debug\Exercicios soma de 1 ate 1000.exe.config
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\bin\Debug\Exercicios soma de 1 ate 1000.exe
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\bin\Debug\Exercicios soma de 1 ate 1000.pdb
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\obj\Debug\Exercicios soma de 1 ate 1000.csprojResolveAssemblyReference.cache
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\obj\Debug\Exercicios_soma_de_1_ate_1000.somaDe1Ate1000.resources
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\obj\Debug\Exercicios_soma_de_1_ate_1000.Properties.Resources.resources
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\obj\Debug\Exercicios soma de 1 ate 1000.csproj.GenerateResource.Cache
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\obj\Debug\Exercicios soma de 1 ate 1000.exe
-C:\Users\Moises\Desktop\Exercicios 5.4\ExercicioSomaDE1Ate1000\Exercicios soma de 1 ate 1000\Exercicios soma de 1 ate 1000\obj\Debug\Exercicios soma de 1 ate 1000.pdb

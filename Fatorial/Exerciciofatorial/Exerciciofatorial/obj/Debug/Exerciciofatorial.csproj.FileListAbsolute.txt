@@ -1,8 +1,0 @@
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\bin\Debug\Exerciciofatorial.exe.config
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\bin\Debug\Exerciciofatorial.exe
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\bin\Debug\Exerciciofatorial.pdb
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\obj\Debug\Exerciciofatorial.Form1.resources
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\obj\Debug\Exerciciofatorial.Properties.Resources.resources
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\obj\Debug\Exerciciofatorial.csproj.GenerateResource.Cache
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\obj\Debug\Exerciciofatorial.exe
-C:\Users\Moises\Desktop\csharpApostila\Fatorial\Exerciciofatorial\Exerciciofatorial\obj\Debug\Exerciciofatorial.pdb
